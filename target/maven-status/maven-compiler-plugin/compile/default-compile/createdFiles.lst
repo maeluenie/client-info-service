@@ -1,0 +1,6 @@
+com/example/clientinfo/ClientInfoApplication.class
+com/example/clientinfo/Data/Client.class
+com/example/clientinfo/Service/ClientService.class
+com/example/clientinfo/Repository/Mapper/ClientMapper.class
+com/example/clientinfo/Repository/ClientRepository.class
+com/example/clientinfo/Controller/ClientController.class
